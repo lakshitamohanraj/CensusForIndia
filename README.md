@@ -42,7 +42,7 @@ By leveraging the open source Flutter framework and fireBase Tools was helpful i
 - 
 
 ## Techstacks used 
-`Flutter` , `Firebase` , ``fireBaseAuth , `Dart programming` , `Kotlin`
+`Flutter` , `Firebase` , `fireBaseAuth , `Dart programming` , `Kotlin`
 
 ## How to run locally 
 Install FLutter in you system 
